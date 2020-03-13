@@ -1,3 +1,3 @@
 # Dummy Callback for Document Server
 
- https://my-json-server.typicode.com/Shogoki/dummy-callback
+https://raw.githubusercontent.com/Shogoki/dummy-callback/master/db.json
